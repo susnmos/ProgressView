@@ -20,8 +20,8 @@ class ViewController: UIViewController {
   override func viewDidLoad() {
     super.viewDidLoad()
     
-    let proView = ProgressView(frame: CGRect(x: 20, y: 20, width: 200, height: 100))
-    view.addSubview(proView)
+//    let proView = ProgressView(frame: CGRect(x: 20, y: 20, width: 200, height: 100))
+//    view.addSubview(proView)
     
   }
 

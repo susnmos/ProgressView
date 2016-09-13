@@ -79,7 +79,6 @@ class ProgressView: UIView {
   override init(frame: CGRect) {
     
     super.init(frame: frame)
-    self.progress = 0
     self.backgroundColor = UIColor.clear
   }
   
